@@ -1,7 +1,7 @@
 Terms of Service
 ----------------
 
-*Last Updated: September 23, 2025*
+*Last Updated: April 1, 2026*
 
 The Gist
 --------
@@ -97,6 +97,8 @@ By using a Paid Service, you agree to pay the specified fees. Depending on the P
 
 **Payment.** You must provide accurate and up-to-date payment information. By providing your payment information, you authorize us to store it until you request deletion. If your payment fails, we suspect fraud, or Paid Services are otherwise not paid for or paid for on time (for example, if you contact your bank or credit card company to decline or reverse the charge of fees for Paid Services), we may immediately cancel or revoke your access to Paid Services without notice to you. You authorize us to charge any updated payment information provided by your bank or payment service provider (e.g., new expiration date) or other payment methods provided if we can’t charge your primary payment method.
 
+**Geographic Pricing.** Fees for some Paid Services may vary based on the billing country associated with your payment method. The price shown while browsing is an estimate based on your detected location; your final price is confirmed at checkout based on your billing country. If we offer a market-specific price in a particular country or region, that price applies only for the applicable promotional period or for as long as we make it available.
+
 **Automatic Renewal. **By enrolling in a subscription, you authorize us to automatically charge the then-applicable fees and Taxes for each subsequent subscription period until the subscription is canceled. If you received a discount, used a coupon code, or subscribed during a free trial or promotion, your subscription will automatically renew for the full price of the subscription at the end of the discount period. This means that unless you cancel a subscription, it’ll automatically renew and we’ll charge your payment method(s). You must cancel at least one month before the scheduled end date of any annual subscription and at least 24 hours before the end of any shorter subscription period. The date for the automatic renewal is based on the date of the original purchase and cannot be changed. If you’ve purchased access to multiple services, you may have multiple renewal dates.
 
 You can view your renewal date(s), cancel, or manage subscriptions in your settings (for example, [WordPress.com’s Manage Purchases page](https://wordpress.com/me/purchases) or [Woo’s My Subscriptions page](http://woocommerce.com/my-account/my-subscriptions/)) or by contacting the support team.
@@ -184,7 +186,7 @@ For details about what happens during the domain expiration process and how we m
 
 For information about fees associated with domain registrations, renewals, and redemptions, please refer to the [domain pricing and available TLDs page](https://en.support.wordpress.com/domains/domain-pricing-and-available-tlds/).
 
-When you register a domain, you’re required to provide complete and accurate registration information, and you must keep this information current. In most cases, the contact information you provide as part of the registration process will be used as your administrative contact, technical contact, and billing contact for the domain. You can [update your domain contact information](https://wordpress.com/support/update-contact-information/) at any time. If the domain contact information differs from your WordPress.com account information, we consider the administrative contact in your [domain contact information](https://wordpress.com/support/update-contact-information/) to be the owner of the domain, with full authority to manage it.
+When you register a domain, you’re required to provide complete and accurate registrant information, and you must keep this information current. You can [update your domain registrant information](https://wordpress.com/support/update-contact-information/) at any time. If the domain registrant information differs from your WordPress.com account information, we consider the [domain registrant](https://wordpress.com/support/update-contact-information/) to be the owner of the domain, with full authority to manage it. If you provide an organization for a domain, you consent to the publication of the organization in the Registration Data Directory Services and understand that the organization will be treated as the domain owner under ICANN policy.
 
 **100-Year Plan or Domain.** If you purchase a [100-Year Plan](https://wordpress.com/100-year/) or a [100-Year Domain](https://wordpress.com/100-year-domain/), you understand the [details of the Service](https://wordpress.com/support/plan-features/100-year-plan), including feature changes that could occur during the life of your plan. When you register a 100-Year Domain, “Century Proxy” will be listed as the domain registrant (that’s us!) and you agree to the [Century Proxy Terms of Service](https://wordpress.com/century-proxy-terms-of-service/). This allows us to administer the domain for you to ensure that it continues to be registered for 100 years, even when you’re busy. You still ultimately control and are liable for the domain.
 
